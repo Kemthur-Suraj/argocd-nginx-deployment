@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: "https://github.com/YOUR_GITHUB_USERNAME/argocd-nginx-deployment.git"
+    repoURL: "https://github.com/Kemthur-Suraj/argocd-nginx-deployment.git"
     targetRevision: HEAD
     path: helm/nginx
     helm:
